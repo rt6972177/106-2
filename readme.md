@@ -64,3 +64,13 @@
 * 顧客分群以及實驗設計之PPT
 
 [Proposal_1](https://github.com/rt6972177/106-2/blob/master/Proposal/Data-Driven%20CMR.pdf)
+
+----------------------------------
+
+### Week_7 task:
+* 使用SVM辨識手寫數字
+* 利用sklearn內建的dataset練習使用SVM
+* 使用Isomap進行資料降維，再丟進SVM進行分類
+* 視覺化呈現分類結果
+
+[Week_7 task](https://github.com/rt6972177/106-2/blob/master/Week_7/Week_7_ML.ipynb)
