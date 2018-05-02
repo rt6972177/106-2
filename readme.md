@@ -83,4 +83,5 @@
 * 嘗試對重要參數使用PCA，但效果不好
 * 訓練出來的模型針對測試資料的預測準確度達97%
 
-[Project_2]()
+[Project_2](https://github.com/rt6972177/106-2/blob/master/Project_2/Week_8_Titanic_prediction.ipynb)
+[Answer of prediction csv file](https://github.com/rt6972177/106-2/blob/master/Project_2/Ans_Titanic.csv)
