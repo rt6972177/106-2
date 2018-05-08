@@ -94,4 +94,4 @@
 * 「數學較好的人科學也會比較好」(相關係數較高)
 * Try to use plotly and matplotlib to plot the regerssion
 
-[Project_3](https://github.com/rt6972177/106-2/blob/master/Project_2/Week_8_Titanic_prediction.ipynb)
+[Project_3](https://nbviewer.jupyter.org/github/rt6972177/106-2/blob/master/Project_3/Week_9_Regression.ipynb)
