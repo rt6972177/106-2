@@ -85,3 +85,13 @@
 
 [Project_2](https://github.com/rt6972177/106-2/blob/master/Project_2/Week_8_Titanic_prediction.ipynb)
 [Answer of prediction csv file](https://github.com/rt6972177/106-2/blob/master/Project_2/Ans_Titanic.csv)
+
+----------------------------------
+
+### Project_3:
+* 觀察數學&科學成績和投入因素的相關性
+* 在不同欄位的資料計算得的相關係數中，只有在性別的地方出現負相關，值得討論
+* 「數學較好的人科學也會比較好」(相關係數較高)
+* Try to use plotly and matplotlib to plot the regerssion
+
+[Project_3](https://github.com/rt6972177/106-2/blob/master/Project_2/Week_8_Titanic_prediction.ipynb)
