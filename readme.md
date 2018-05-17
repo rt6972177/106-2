@@ -95,3 +95,11 @@
 * Try to use plotly and matplotlib to plot the regerssion
 
 [Project_3](https://nbviewer.jupyter.org/github/rt6972177/106-2/blob/master/Project_3/Week_9_Regression.ipynb)
+
+----------------------------------
+
+### Project_4:
+* 從91APP的資料中的訂單，套用Apriori來觀察
+* 利用觀察結果得出針織衫和毛衣圍巾等有較高的機率一起購買
+
+[Project_4](https://github.com/rt6972177/106-2/blob/master/Project_4/Project_4_Apriori.ipynb)
