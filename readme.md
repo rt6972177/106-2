@@ -118,4 +118,4 @@
 
 ### Final_Proposal:
 
-[Final_Proposal](https://github.com/rt6972177/106-2/blob/master/Project_5/Project_5_PyTorch.ipynb)
+[Final_Proposal](https://github.com/rt6972177/106-2/blob/master/Final_Proposal/%E9%80%B2%E9%9A%8E%E8%BB%9F%E9%AB%94%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pdf)
