@@ -113,3 +113,9 @@
 * 嘗試對Model做出修改以符合需求
 
 [Project_5](https://github.com/rt6972177/106-2/blob/master/Project_5/Project_5_PyTorch.ipynb)
+
+-----------------------------------
+
+### Final_Proposal:
+
+[Final_Proposal](https://github.com/rt6972177/106-2/blob/master/Project_5/Project_5_PyTorch.ipynb)
